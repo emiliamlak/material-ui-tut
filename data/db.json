@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Mario's Birthday Present",
+      "details": "fjskslfn",
+      "category": "reminders",
+      "id": 4
+    },
+    {
+      "title": "Pawel pacz jak ladnie zrobilam",
+      "details": "no pacz",
+      "category": "todos",
+      "id": 6
+    },
+    {
+      "title": "Pawel no wez paaaacz",
+      "details": "PAAACZ",
+      "category": "work",
+      "id": 7
+    },
+    {
+      "title": "paweeeeel",
+      "details": " masz byc dumnymasz byc dumnymasz byc dumnymasz byc dumnymasz byc dumnymasz byc dumnymasz byc dumnymasz byc dumnymasz byc dumnymasz byc dumnymasz byc dumnymasz byc dumnymasz byc dumnymasz byc dumnymasz byc dumny",
+      "category": "money",
+      "id": 8
+    },
+    {
+      "title": "masz byc dumny",
+      "details": " masz byc dumny Pawe; uu jeah masz byc dumny Pawe; uu jeahmasz byc dumny Pawe; uu jeahmasz byc dumny Pawe; uu jeahmasz byc dumny Pawe; uu jeahmasz byc dumny Pawe; uu jeahmasz byc dumny Pawe; uu jeahmasz byc dumny Pawe; uu jeahmasz byc dumny Pawe; uu jeahmasz byc dumny Pawe; uu jeah",
+      "category": "money",
+      "id": 9
+    },
+    {
+      "title": "paweeel",
+      "details": "ha",
+      "category": "reminders",
+      "id": 10
+    }
+  ]
+}
